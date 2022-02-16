@@ -1,5 +1,6 @@
 #include<iostream>
 #include <string>
+#define arr "Hello"
 using namespace std;
 int main()
 {
